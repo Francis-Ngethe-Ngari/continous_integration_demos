@@ -1,0 +1,2 @@
+# continous_integration_demos
+Repository contains continous Integration trials
